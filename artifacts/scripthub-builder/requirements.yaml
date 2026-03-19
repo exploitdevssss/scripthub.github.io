@@ -1,0 +1,5 @@
+packages:
+  "framer-motion": "For page transitions, glassmorphism UI interactions, and smooth element reordering"
+images: []
+notes:
+  - "The application uses pure client-side state for the script builder since there is no backend API defined. It exports Lua code directly to the clipboard."
